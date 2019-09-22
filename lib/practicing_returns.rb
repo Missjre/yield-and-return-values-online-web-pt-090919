@@ -8,6 +8,3 @@ def hello(array)
   colection
 end
 
-binding.pry
-hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
-]
